@@ -1,3 +1,4 @@
+#
 if(File.exist?('file.rb')) 
   puts 'file or directory exists'
 else 
